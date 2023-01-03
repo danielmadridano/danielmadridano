@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielmadridano
 - 👀 I’m interested in Fornt-End Programming
-- 🌱 I’m currently learning JavaScropt
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Design Projects
 - 📫 How to reach me through Instagram
 
